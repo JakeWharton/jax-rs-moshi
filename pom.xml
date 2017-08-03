@@ -11,7 +11,7 @@
 
   <groupId>com.jakewharton</groupId>
   <artifactId>jax-rs-moshi</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
 
   <name>JAX-RS Moshi</name>
   <description>Message body reader/writer and parameter converter which uses Moshi.</description>
